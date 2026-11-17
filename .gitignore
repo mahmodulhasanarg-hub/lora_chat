@@ -1,0 +1,27 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.pub-cache/
+.pub/
+
+# Editor
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Big files
+*.apk
+
+# Platform folders are not uploaded. Recreate them with:
+#   dart run tool/setup.dart
+android/
+ios/
+macos/
+windows/
+web/
+linux/
