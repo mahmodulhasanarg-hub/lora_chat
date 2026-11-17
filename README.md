@@ -1,4 +1,4 @@
-# lora_chat
+#Offline text chat app (Flutter) for ESP32 + LoRa devices. Phone connects to the ESP32 Wi-Fi, and the ESP32 relays messages over LoRa. No internet, cloud or backend.
 
 A new Flutter project.
 
